@@ -18,4 +18,4 @@
 <button class="btn btn-default" >Zapisz zmiany</button> <br />
 <a href="/<?= APP_ROOT ?>/narzedzie">Kontynuuj kompletowanie zasobów</a>  <br />
 <a href="zamowienie/add">Do narzędziowni</a>
-</form>
+</form> 
