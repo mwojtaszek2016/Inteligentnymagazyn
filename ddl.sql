@@ -158,4 +158,4 @@ INSERT INTO uzytkownik(id,login,email,haslo) VALUES (1,'admin','admin@admin.pl',
 INSERT INTO users_roles(user_id,role_id) VALUES (1,1);
 
 INSERT INTO roboty (id_robota, nazwa, opis) VALUES (1, 'TYA', 'Robot transportowy numer 1');
- 
+  
