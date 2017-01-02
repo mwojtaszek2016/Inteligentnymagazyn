@@ -4,4 +4,4 @@
         <h2><center>Sprawdź dostępne narzędzia znajdujące się w magazynie</center>
                 <center>i skompletuj niezbędne dla Ciebie zasoby!</center></h2>
 
-	
+	 
