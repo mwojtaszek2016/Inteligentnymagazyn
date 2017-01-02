@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `roles` (
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
-
+ 
 -- -----------------------------------------------------
 -- Table `users_roles`
 -- -----------------------------------------------------
